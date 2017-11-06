@@ -1,0 +1,12 @@
+#header {
+    color: aqua;
+    
+}
+
+#header h1 {
+    font-size: 40px;
+}
+
+a:hover {
+    color: red
+}
